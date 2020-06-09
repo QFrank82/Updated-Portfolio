@@ -40,6 +40,7 @@ body {
 
 a {
     font-family: 'Neucha', cursive;
+    color: black;
 }
 
 .project-title {
@@ -58,4 +59,14 @@ h2 {
 
 p {
     margin: 0;
+    font-family: 'Neucha', cursive;
+    color: black;
+}
+
+h4 {
+    font-family: 'Neucha', cursive;
+}
+
+h1 {
+    font-family: 'Neucha', cursive;
 }
